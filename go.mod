@@ -1,4 +1,4 @@
-module github.com/jackkill/openai-research
+module github.com/jgkill-p3/openai-research
 
 go 1.22
 
